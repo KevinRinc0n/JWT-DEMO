@@ -15,3 +15,6 @@ C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
 C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
 C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
 C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll
+C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\bin\Debug\net7.0\Data\Csvs\categorias.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\bin\Debug\net7.0\Data\Csvs\marcas.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\Aplicacion\bin\Debug\net7.0\Data\Csvs\productos.csv

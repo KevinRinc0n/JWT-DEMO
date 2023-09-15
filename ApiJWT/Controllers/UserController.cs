@@ -20,7 +20,7 @@ public class UserController : ApiBaseController
         return Ok(result);
     }
 
-    [HttpPost("token")]
+    [HttpPost("token")] 
     public async Task<IActionResult> GetTokenAsync(LoginDto model)
     {
         var result = await _userService.GetTokenAsync(model);

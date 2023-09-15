@@ -72,3 +72,9 @@ C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\obj\Debug\net7.0\refint\ApiJWT.dll
 C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\obj\Debug\net7.0\ApiJWT.pdb
 c:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\obj\Debug\net7.0\ApiJWT.genruntimeconfig.cache
 c:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\obj\Debug\net7.0\ref\ApiJWT.dll
+C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\bin\Debug\net7.0\Data\Csvs\categorias.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\bin\Debug\net7.0\Data\Csvs\marcas.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\bin\Debug\net7.0\Data\Csvs\productos.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\ApiJWT\bin\Debug\net7.0\CsvHelper.dll

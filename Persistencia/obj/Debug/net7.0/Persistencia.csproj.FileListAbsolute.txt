@@ -13,3 +13,6 @@ C:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\obj\Debug\net7.0\Persistencia.dl
 C:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
 C:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\obj\Debug\net7.0\Persistencia.pdb
 c:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
+C:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\bin\Debug\net7.0\Data\Csvs\categorias.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\bin\Debug\net7.0\Data\Csvs\marcas.csv
+C:\Users\APT01-48\Desktop\JWT-DEMO\Persistencia\bin\Debug\net7.0\Data\Csvs\productos.csv

@@ -42,6 +42,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -121,8 +125,8 @@
               "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -223,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\APT01-48\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\APT01-48\\Desktop\\JWT-DEMO\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -261,6 +265,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.10, )"
